@@ -1,7 +1,7 @@
 name = "ModelingToolkit"
 uuid = "961ee093-0014-501f-94e3-6117800e7a78"
 authors = ["Chris Rackauckas <accounts@chrisrackauckas.com>"]
-version = "4.5.0"
+version = "4.5.1"
 
 [deps]
 ArrayInterface = "4fba245c-0d91-5ea0-9b3e-6abc04ee57a9"
@@ -33,7 +33,7 @@ UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 
 [compat]
-ArrayInterface = "2.8"
+ArrayInterface = "2.8, 3"
 DataStructures = "0.17, 0.18"
 DiffEqBase = "6.48.1"
 DiffEqJump = "6.7.5"
